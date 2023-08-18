@@ -15,6 +15,4 @@ Skills: HTML / CSS / JS / REACT / FIGMA / GIT / SASS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MerlinoCode)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MerlinoCode&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/MerlinoCode)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MerlinoCode&show_icons=true) 
