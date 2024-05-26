@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Jonathan
 #### I am a FrontEnd & Ux/Ui Designer
-![I am a FrontEnd & Ux/Ui Designer](https://media.licdn.com/dms/image/D4D16AQGsRcuSpP1MMQ/profile-displaybackgroundimage-shrink_350_1400/0/1690218844833?e=1697673600&v=beta&t=DnEyQIkziCpZsO-DHJFK9jOOU8ORaWmqJFd1vcVwPwM)
 
 Born and raised from Argentina, I am a creative person passionate about design and innovation.
 The combination of functionality and aesthetics drives me to create **memorable** and **impressive** user experiences
