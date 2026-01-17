@@ -4,6 +4,8 @@
 Born and raised from Argentina, I am a creative person passionate about design and innovation.
 The combination of functionality and aesthetics drives me to create **memorable** and **impressive** user experiences
 
+![](https://komarev.com/ghpvc/?username=merlinocode&color=green&style=for-the-badge)
+
 <h3 align="left">Languages and Tools</h3>
 
 FrontEnd | BackEnd | Design | Others
